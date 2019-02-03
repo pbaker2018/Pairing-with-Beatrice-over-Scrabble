@@ -5,7 +5,7 @@ This program takes a word and returns the total points value of each letter in t
 
 
 ## Motivation
-This was a challenge to extend our prior knowledge. We had both already written a Scrabble function, but here, we had to put it in to a 'class Scrabble', and re-arrange it so it would pass the pre-written RSpec tests.(note: tests were not written by us)
+This was a challenge to extend our prior knowledge. We had both already written a Scrabble function, but here, we had to put it in to a 'class Scrabble', and re-arrange it so it would pass the pre-written RSpec tests (NOTE: Tests were not written by us). 
 The aim of this challenge was to:
 - get us used to pairing
 - introduce us to using Class
